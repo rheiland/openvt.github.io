@@ -7,7 +7,8 @@ OpenVT seeks to build an engaged community of researchers that use and develop o
 * educate the community of users on the features that each framework offers, via
   - comparative spreadsheets of capabilities
   - links to documentation
-  - publications that highlight the frameworks, with either specific models or more general background
+  - publications that highlight the frameworks (either specific models or general information)
+  - reference models to compare simulation results from frameworks
 * provide easier model sharing between frameworks
 * provide steps toward model reproducibility between frameworks
 * seek new funding opportunities related to this overall project
